@@ -1,0 +1,25 @@
+region :Nord-Pas-De-Calais
+population :4 060 741 hab
+densitée :324 hab./km2
+Superficie :12 414 km2
+préfecture de région :Lille
+
+liste des id régions
+0class="region region-01" data-nom="Guadeloupe"
+1class="region region-02" data-nom="Martinique"
+2class="region region-03" data-nom="Guyane"
+3class="region region-04" data-nom="La Réunion"
+4class="region region-06" data-nom="Mayotte"
+5class="region region-11" data-nom="Île-de-France"
+6class="region region-24" data-nom="Centre-Val de Loire"
+7class="region region-27" data-nom="Bourgogne-Franche-Comté"
+8class="region region-28" data-nom="Normandie"
+9class="region region-32" data-nom="Hauts-de-France"
+10class="region region-44" data-nom="Grand Est"
+11class="region region-52" data-nom="Pays de la Loire"
+12class="region region-53" data-nom="Bretagne"
+13class="region region-75" data-nom="Nouvelle-Aquitaine"
+14class="region region-76" data-nom="Occitanie"
+15class="region region-84" data-nom="Auvergne-Rhône-Alpes"
+16class="region region-93" data-nom="Provence-Alpes-Côte d'Azur"
+17class="region region-94" data-nom="Corse"
